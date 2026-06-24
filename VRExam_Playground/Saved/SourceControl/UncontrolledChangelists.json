@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ktbez/Repos/PlaygroundVR/VRExam_Playground/Content/Assets/Wheel/wheel_PhysicsAsset.uasset",
+				"C:/Users/ktbez/Repos/PlaygroundVR/VRExam_Playground/Content/Assets/Wheel/standardSurface1.uasset",
+				"C:/Users/ktbez/Repos/PlaygroundVR/VRExam_Playground/Content/Assets/Wheel/wheel_Skeleton.uasset",
+				"C:/Users/ktbez/Repos/PlaygroundVR/VRExam_Playground/Content/Assets/Wheel/wheel.uasset"
+			]
+		}
+	]
+}
