@@ -1,5 +1,3 @@
-2026/06/24-10:59:31.539 3174 Log #3: 4 ops saved to Table #4 OK
-2026/06/24-10:59:31.541 3174 Archiving C:\Users\ktbez\Repos\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/06/24-10:59:31.542 3174 Table #4: 4 entries OK
-2026/06/24-10:59:31.543 3174 Archiving C:\Users\ktbez\Repos\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/06/24-10:59:31.563 3174 **** Repaired leveldb C:\Users\ktbez\Repos\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 236 bytes. Some data may have been lost. ****
+2026/06/24-11:34:42.177 7b8c Reusing MANIFEST C:\Users\Student\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/06/24-11:34:42.178 7b8c Recovering log #6
+2026/06/24-11:34:42.178 7b8c Reusing old log C:\Users\Student\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 

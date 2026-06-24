@@ -1,2 +1,3 @@
-2026/06/24-10:59:31.622 35fc Creating DB C:\Users\ktbez\Repos\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/06/24-10:59:31.651 35fc Reusing MANIFEST C:\Users\ktbez\Repos\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/24-12:26:15.448 2148 Reusing MANIFEST C:\Users\Student\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/24-12:26:15.456 2148 Recovering log #3
+2026/06/24-12:26:15.458 2148 Reusing old log C:\Users\Student\PlaygroundVR\VRExam_Playground\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
